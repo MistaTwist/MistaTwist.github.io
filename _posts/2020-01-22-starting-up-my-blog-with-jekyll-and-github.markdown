@@ -44,7 +44,7 @@ bundle exec jekyll serve
 
 In my browser, I opened up https://localhost:4000 and voilá! You'll see a placeholder post, all ready to re-purpose.
 
-![Initial Post View](/assets/img/InitialServeView.png)
+![Initial Post View](/assets/img/InitialServeView.PNG)
 
 From here, you can edit your first post and such, which I'll leave up to you for now. Plenty of documentation can be found on the Jekyll site here.
 
@@ -79,6 +79,6 @@ The above commands do the following:
 
 And there you go - if you now browse to your repo in GitHub, and browse to the Settings tab, scrolling down you'll see the GitHub Pages section, where the link to your site will be.
 
-![GitHub Pages view](/assets/img/GitHubPages.png)
+![GitHub Pages view](/assets/img/GitHubPages.PNG)
 
 Now I'm ready to blog, and so are you :)
