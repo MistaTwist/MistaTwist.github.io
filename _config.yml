@@ -21,7 +21,7 @@
 title: Paul Perry
 email: >-
 description: >- # this means to ignore newlines until "baseurl:"
-  Paul is an Office 365/Azure/SharePoint Developer at CPS, based in Marlow.
+  Paul is an Office 365/Azure/SharePoint Developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: paulperry417
